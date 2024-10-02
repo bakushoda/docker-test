@@ -15,7 +15,7 @@ docker build -t php-app .
 
 ### run(コンテナ作成)
 
-appディレクトリに移動して実行すること！
+appディレクトリに移動して実行
 
 ```
 docker container run \
